@@ -1,10 +1,10 @@
 # Labs 7 and 8
 
-## Student Details
+## Student Details:
 
-- Student ID: `your id`
-- Student Name: `your name`
-- Section Number: `you section number`
+- Student ID: `u1610083`
+- Student Name: `Islombek Salimov`
+- Section Number: `001`
 
 ## Tasks
 Finish following tasks in this project:
